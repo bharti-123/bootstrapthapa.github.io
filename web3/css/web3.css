@@ -1,0 +1,61 @@
+header{
+
+background-image: url(../forest.jpg);
+background-position: center;
+background-size: cover;
+height: 100vh;
+}
+
+ul{
+float: right;
+margin-top: 50px;
+}
+
+
+ul li{
+border: 1px solid black;
+display: inline-block;
+}
+
+ul li:hover{
+ background-color: white;
+}
+
+img{
+ height: 100px;
+ width: 100px;
+
+}
+
+
+h1{
+font-size: 100px;
+color: white;
+margin-top: 100px;
+margin-left: 400px;
+
+}
+
+.buttons{
+margin-left: 550px;
+
+}
+
+.bton1{
+border: 1px solid;
+
+}
+
+.bton2{
+	border: 1px solid;
+}
+
+.bton1:hover{
+background-color: white;
+
+}
+
+.bton2:hover{
+background-color: white;
+
+}
